@@ -35,11 +35,11 @@ body{
   margin:15px;
   padding:15px;
   background-color: white;
-  box-shadow: -1px -1px 2px lightgray;
-  border-right:4px solid red;
+  box-shadow: 1px 1px 2px lightgray;
+  border-left:4px solid red;
 }
 .list-item-complete{
-  border-right: 4px solid darkgreen;
+  border-left: 4px solid darkgreen;
 }
 .add-to-list{
   display:flex;
@@ -58,4 +58,10 @@ body{
 }
 .btn:hover{
   box-shadow: 1.1px 1.1px 3px lightgray;
+}
+.delete-btn{
+  background-color: white;
+  outline:none;
+  border:none;
+  color:red;
 }

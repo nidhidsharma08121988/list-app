@@ -3,7 +3,7 @@
     {
       "id": 1,
       "text": "Work",
-      "pending": false
+      "pending": true
     },
     {
       "id": 3,
