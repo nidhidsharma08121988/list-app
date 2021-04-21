@@ -1,0 +1,34 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "text": "Work",
+      "pending": true
+    },
+    {
+      "id": 2,
+      "text": "Meditate",
+      "pending": true
+    },
+    {
+      "id": 3,
+      "text": "Dance",
+      "pending": true
+    },
+    {
+      "text": "Joke",
+      "id": 4,
+      "pending": true
+    },
+    {
+      "text": "Kiss Pankaj good evening",
+      "pending": false,
+      "id": 5
+    },
+    {
+      "text": "Say story to pahi",
+      "pending": false,
+      "id": 6
+    }
+  ]
+}
